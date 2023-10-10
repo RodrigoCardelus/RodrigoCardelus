@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋,Me llamo Rodrigo Cardelus</h1>
 <h3 align="center">Soy un Programador Web.Net Apasionado</h3>
 
-- Actualmente estoy aprendiendo **Entity Framework,Patrones Diseño,Genexus**
+- Actualmente estoy cursando el ultimo año de la Carrera Analista en Sistemas en Bios **Estoy aprendiendo Java, MySql, SpringBoot**
 
-- 💬 Ask me about **SqlServer,C#,Web,Patrones Diseño,Net Framework, Java**
+- 💬 Ask me about **SqlServer,C#,Web,Patrones Diseño,Net Framework, HTML, Java**
 
 - 📫 How to reach me **rodrigocardelus80@gmail.com**
 
