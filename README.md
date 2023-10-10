@@ -3,7 +3,7 @@
 
 - Actualmente estoy aprendiendo **Entity Framework,Patrones Diseño,Genexus**
 
-- 💬 Ask me about **SqlServer,C#,Web,Patrones Diseño**
+- 💬 Ask me about **SqlServer,C#,Web,Patrones Diseño,Net Framework, Java**
 
 - 📫 How to reach me **rodrigocardelus80@gmail.com**
 
