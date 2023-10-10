@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋,Me llamo Rodrigo Cardelus</h1>
 <h3 align="center">Soy un Programador Web.Net Apasionado</h3>
 
-- Actualmente estoy cursando el ultimo año de la Carrera Analista en Sistemas en Bios **Estoy aprendiendo Java, MySql, SpringBoot**
+- Actualmente estoy cursando el ultimo año de la Carrera Analista en Sistemas en el Instituto Bios **Estoy aprendiendo Java, MySql, SpringBoot**
 
 - 💬 Ask me about **SqlServer,C#,Web,Patrones Diseño,Net Framework, HTML, Java**
 
