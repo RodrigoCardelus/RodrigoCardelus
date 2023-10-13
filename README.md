@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rodrigocardelus80@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/](https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/)]([https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/](https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/))
+- 📄 Know about my experiences [[https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/](https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/)]
 
 - ⚡ Fun fact **Me gusta mucho Viajar 🌎, Programar 👨‍💻 y los videojuegos 🎮 .**
 
