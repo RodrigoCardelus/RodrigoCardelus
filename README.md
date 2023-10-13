@@ -13,11 +13,13 @@
 
 - 💬 Ask me about **SqlServer,C#,Web,Patrones Diseño,Net Framework, HTML, Java**
 
+- 📖 I would like to learn **Pyhton,Json, PHP y Linux**  
+
 - 📫 How to reach me **rodrigocardelus80@gmail.com**
 
 - 📄 Know about my experiences [[https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/](https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/)]([https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/](https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/))
 
-- ⚡ Fun fact **Me gusta mucho viajar,la programacion y la tecnologia.**
+- ⚡ Fun fact **Me gusta mucho Viajar 🌎, Programar 👨‍💻 y los videojuegos 🎮 .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
