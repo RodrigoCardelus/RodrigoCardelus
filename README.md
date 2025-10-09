@@ -1,37 +1,102 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Cardelus</h1>
-<h3 align="center">A passionate frontend developer from Uruguay</h3>
+<h3 align="center">🧠 Enthusiastic Programming Analyst from Uruguay with a growing focus on Cybersecurity.
+Experienced with Kali Linux, Rocky Linux, BackTrack, and data encryption.
+Interested in ethical hacking, system hardening, and information protection.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigocardelus&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigocardelus" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rodrigocardelus&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigocardelus" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigocardelus" alt="rodrigocardelus" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rodrigocardelus" alt="rodrigocardelus" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on **Java, MySql,SpringBoot y Flutter**
+- 🔭 I’m currently working on **Kali Linux, Rocky Linux, BackTrack and Encryption**  
 
-- 🌱 I’m currently learning **Java, MySql, SpringBoot,Flutter y Dart**
+- 🌱 I’m currently learning **Java, MySql, SpringBoot, Flutter, Dart and Cybersecurity**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/RodrigoCardelus?tab=repositories](https://github.com/RodrigoCardelus?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/RodrigoCardelus?tab=repositories](https://github.com/RodrigoCardelus?tab=repositories)  
 
-- 💬 Ask me about **C#,Web,Patrones Diseño,Net Framework,Sql Server,HTML y Java.**
+- 💬 Ask me about **C#, Java, MySql, SpringBoot, SQL Server, HTML and Java.**  
 
-- 📖 I would like to learn **Pyhton, PHP, Linux y Docker**  
+- 📖 I would like to learn **Python, PHP, Linux and Docker**  
 
-- 📫 How to reach me **rodrigocardelus80@gmail.com**
+- 📫 How to reach me **rodrigocardelus80@gmail.com**  
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/](https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/)]([https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/](https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/))
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rodrigo-cardelus-ba50a6225/)  
 
-- ⚡ Fun fact **Me gusta mucho viajar🌎,la programar👨‍💻 y los videojuegos🎮.**
+- ⚡ Fun fact **I love traveling 🌎, video games 🎮 and technology 👨‍💻.**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodrigo cardelus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo cardelus" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rodrigo-cardelus" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo cardelus" height="30" width="40" />
+  </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Desarrollo -->
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  </a>
+  
+  <!-- Ciberseguridad -->
+  <a href="https://rockylinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/rockylinux" alt="Rocky Linux" width="40" height="40" title="Rocky Linux"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="40" height="40" title="Kali Linux"/>
+  </a>
+  <a href="https://www.kali.org/docs/introduction/what-is-kali-linux/#history" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/linux" alt="BackTrack (legacy)" width="40" height="40" title="BackTrack (legacy)"/>
+  </a>
+  <a href="https://gnupg.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gnupg" alt="Encryption (GnuPG)" width="40" height="40" title="Encryption / GnuPG"/>
+  </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" height="40" title="Nmap"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigocardelus&show_icons=true&locale=en&layout=compact" alt="rodrigocardelus" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigocardelus&show_icons=true&locale=en" alt="rodrigocardelus" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigocardelus&show_icons=true&locale=en&layout=compact" alt="rodrigocardelus" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigocardelus&" alt="rodrigocardelus" /></p>
-
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r
