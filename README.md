@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Cardelus</h1>
 <h3 align="center">🧠 Enthusiastic Programming Analyst from Uruguay with a growing focus on Cybersecurity.
 Experienced with Kali Linux, Rocky Linux, BackTrack, and data encryption.
-Interested in ethical hacking, system hardening, and information protection.</h3>
+Interested in ethical hacking, system hardening, and information protection.
+</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rodrigocardelus&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigocardelus" /> 
