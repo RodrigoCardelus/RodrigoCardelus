@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Cardelus</h1>
-<h3 align="center">🧠 Systems Analyst from Uruguay, currently completing my thesis with a strong interest in Cybersecurity and Information Security.
+<h1>Hi 👋, I'm Rodrigo Cardelus</h1>
 
+<p>Systems Analyst from Uruguay | Cybersecurity Enthusiast</p>
+
+<p align="center">
+🧠 Currently completing my Systems Analyst thesis, with a strong interest in Cybersecurity and Information Security.
+<br><br>
 My experience includes Linux systems, system administration, cybersecurity fundamentals, and data encryption, with a particular interest in Kali Linux and Rocky Linux.
-
-Currently exploring ethical hacking, system hardening, network security, and information protection, while continuously developing my technical skills..
-</h3>
+<br><br>
+Currently exploring ethical hacking, system hardening, network security, and information protection while continuously developing my technical skills.
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rodrigocardelus&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigocardelus" /> 
