@@ -14,7 +14,7 @@ Interested in ethical hacking, system hardening, and information protection.
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Kali Linux, Rocky Linux, BackTrack and Encryption**  
+- 🔭 I’m currently working on my Systems Analyst thesis, focusing on Linux, cybersecurity, and encryption.**  
 
 - 🌱 I’m currently learning **Java, MySql, SpringBoot, Flutter, Dart and Cybersecurity**  
 
@@ -22,7 +22,7 @@ Interested in ethical hacking, system hardening, and information protection.
 
 - 💬 Ask me about **C#, Java, MySql, SpringBoot, SQL Server, HTML and Java.**  
 
-- 📖 I would like to learn **Python, PHP, Linux and Docker**  
+- 📖 I would like to learn **Python, PHP and Docker**  
 
 - 📫 How to reach me **rodrigocardelus80@gmail.com**  
 
