@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Cardelus</h1>
-<h3 align="center">🧠 Enthusiastic Programming Analyst from Uruguay with a growing focus on Cybersecurity.
-Experienced with Kali Linux, Rocky Linux, BackTrack, and data encryption.
-Interested in ethical hacking, system hardening, and information protection.
+<h3 align="center">🧠 Systems Analyst from Uruguay, currently completing my thesis with a strong interest in Cybersecurity and Information Security.
+
+My experience includes Linux systems, system administration, cybersecurity fundamentals, and data encryption, with a particular interest in Kali Linux and Rocky Linux.
+
+Currently exploring ethical hacking, system hardening, network security, and information protection, while continuously developing my technical skills..
 </h3>
 
 <p align="left"> 
@@ -16,7 +18,7 @@ Interested in ethical hacking, system hardening, and information protection.
 
 - 🔭 I’m currently working on my Systems Analyst thesis, focusing on Linux, cybersecurity, and encryption.**  
 
-- 🌱 I’m currently learning **Java, MySql, SpringBoot, Flutter, Dart and Cybersecurity**  
+- 🌱 I’m currently learning *SpringBoot, Flutter, Dart and Cybersecurity**  
 
 - 👨‍💻 All of my projects are available at [https://github.com/RodrigoCardelus?tab=repositories](https://github.com/RodrigoCardelus?tab=repositories)  
 
