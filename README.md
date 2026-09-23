@@ -10,6 +10,7 @@ My experience includes Linux systems, system administration, cybersecurity funda
 Currently exploring ethical hacking, system hardening, network security, and information protection while continuously developing my technical skills.
 </p>
 
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rodrigocardelus&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigocardelus" /> 
 </p>
